@@ -11,5 +11,5 @@ Deixarei registrado aqui os livros que já li e estou lendo.
 
  #### Livros 
 
- - ⏳Apache Kafka e Spring Boot por Eduardo Felipe Zambom Santana
- - ⏳Mergulho nos Padrões de Projeto por Alexander Shevts
+ - ⏳ Apache Kafka e Spring Boot por Eduardo Felipe Zambom Santana
+ - ⏳ Mergulho nos Padrões de Projeto por Alexander Shevts
