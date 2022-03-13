@@ -7,7 +7,7 @@ Deixarei registrado aqui os livros que já li e estou lendo.
 #### Legenda
 
  - ⏳ - Lendo
- - ✅ Concluído
+ - ✅ - Concluído
 
  #### Livros 
 
